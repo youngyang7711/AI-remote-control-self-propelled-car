@@ -653,4 +653,4 @@ void FRPostProcess(std::vector<FaceRecognitionResult> results)
 ![S__13451274](https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/4a723d42-f544-4e14-8d7e-8cdd04475e1d)
 
 ### 組員: 
-陳宗奕、楊易、林凱恩、陳宏宇、陳鋥錡、張仲翔
+陳宗奕、楊易、林楷恩、陳宏宇、陳鋥錡、張仲翔
